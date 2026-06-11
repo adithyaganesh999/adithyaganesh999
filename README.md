@@ -20,8 +20,7 @@ I'm a self-taught DevOps enthusiast who built production-level CI/CD and cloud i
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/adithya-ganesh)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/adithya-ganesh) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:adithyaganesh640@gmail.com)
 
 # 💻 Tech Stack:
