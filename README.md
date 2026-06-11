@@ -15,9 +15,6 @@ AWS Cloud, Jenkins, ArgoCD, Docker, Kubernetes, GitOps, CI/CD pipelines, Python,
 🌱 I'm currently learning
 MLOps Engineering, Terraform, Ansible, Kubernetes Operators, and advanced cloud-native technologies.
 
-⚡ Fun fact
-I'm a self-taught DevOps enthusiast who built production-level CI/CD and cloud infrastructure projects while pursuing a B.Tech in Data Science.
-
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/adithya-ganesh) 
